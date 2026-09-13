@@ -1,0 +1,101 @@
+LabID,PatientID,TagName,Result,NormalRange
+LAB0001,35,TSH,1.68,0.4-4.0 mIU/L
+LAB0002,22,Vitamin D,61.2,30-100 ng/mL
+LAB0003,2,Creatinine,1.57,0.6-1.2 mg/dL
+LAB0004,20,RBC Count,4.85,4.5-5.9 x10^12/L
+LAB0005,32,RBC Count,4.48,4.5-5.9 x10^12/L
+LAB0006,22,Hemoglobin,13.2,13.5-17.5 g/dL
+LAB0007,45,Cholesterol,225.0,<200 mg/dL
+LAB0008,15,Sodium,149.0,135-145 mEq/L
+LAB0009,21,Cholesterol,256.0,<200 mg/dL
+LAB0010,6,Glucose Fasting,163.0,70-100 mg/dL
+LAB0011,42,WBC Count,11.4,4.5-11.0 x10^9/L
+LAB0012,34,TSH,0.39,0.4-4.0 mIU/L
+LAB0013,20,TSH,4.74,0.4-4.0 mIU/L
+LAB0014,42,Cholesterol,193.0,<200 mg/dL
+LAB0015,13,TSH,3.71,0.4-4.0 mIU/L
+LAB0016,32,TSH,4.41,0.4-4.0 mIU/L
+LAB0017,40,RBC Count,4.9,4.5-5.9 x10^12/L
+LAB0018,20,RBC Count,4.2,4.5-5.9 x10^12/L
+LAB0019,16,Glucose Fasting,171.0,70-100 mg/dL
+LAB0020,22,Potassium,4.3,3.5-5.1 mEq/L
+LAB0021,16,Creatinine,0.62,0.6-1.2 mg/dL
+LAB0022,33,Hemoglobin,11.6,13.5-17.5 g/dL
+LAB0023,11,TSH,4.24,0.4-4.0 mIU/L
+LAB0024,4,Cholesterol,245.0,<200 mg/dL
+LAB0025,31,Creatinine,1.47,0.6-1.2 mg/dL
+LAB0026,42,Potassium,4.3,3.5-5.1 mEq/L
+LAB0027,10,Potassium,3.4,3.5-5.1 mEq/L
+LAB0028,13,TSH,5.75,0.4-4.0 mIU/L
+LAB0029,16,Cholesterol,194.0,<200 mg/dL
+LAB0030,47,Vitamin D,89.7,30-100 ng/mL
+LAB0031,2,Glucose Fasting,174.0,70-100 mg/dL
+LAB0032,38,Cholesterol,226.0,<200 mg/dL
+LAB0033,40,Sodium,130.0,135-145 mEq/L
+LAB0034,49,TSH,4.58,0.4-4.0 mIU/L
+LAB0035,1,Creatinine,0.62,0.6-1.2 mg/dL
+LAB0036,34,Glucose Fasting,175.0,70-100 mg/dL
+LAB0037,37,RBC Count,5.47,4.5-5.9 x10^12/L
+LAB0038,23,RBC Count,4.89,4.5-5.9 x10^12/L
+LAB0039,44,TSH,0.79,0.4-4.0 mIU/L
+LAB0040,42,Vitamin D,73.9,30-100 ng/mL
+LAB0041,11,Creatinine,0.86,0.6-1.2 mg/dL
+LAB0042,32,RBC Count,4.97,4.5-5.9 x10^12/L
+LAB0043,28,Glucose Fasting,91.0,70-100 mg/dL
+LAB0044,27,RBC Count,6.18,4.5-5.9 x10^12/L
+LAB0045,4,Sodium,147.0,135-145 mEq/L
+LAB0046,3,Hemoglobin,14.6,13.5-17.5 g/dL
+LAB0047,21,Potassium,5.5,3.5-5.1 mEq/L
+LAB0048,6,Glucose Fasting,156.0,70-100 mg/dL
+LAB0049,49,RBC Count,6.09,4.5-5.9 x10^12/L
+LAB0050,50,Sodium,132.0,135-145 mEq/L
+LAB0051,43,Potassium,3.2,3.5-5.1 mEq/L
+LAB0052,25,Vitamin D,89.1,30-100 ng/mL
+LAB0053,2,Creatinine,1.13,0.6-1.2 mg/dL
+LAB0054,1,TSH,4.93,0.4-4.0 mIU/L
+LAB0055,3,RBC Count,5.06,4.5-5.9 x10^12/L
+LAB0056,31,Hemoglobin,10.8,13.5-17.5 g/dL
+LAB0057,23,Sodium,139.0,135-145 mEq/L
+LAB0058,3,Hemoglobin,15.4,13.5-17.5 g/dL
+LAB0059,16,Cholesterol,171.0,<200 mg/dL
+LAB0060,40,Glucose Fasting,178.0,70-100 mg/dL
+LAB0061,46,Creatinine,0.61,0.6-1.2 mg/dL
+LAB0062,5,Potassium,3.4,3.5-5.1 mEq/L
+LAB0063,26,Vitamin D,36.0,30-100 ng/mL
+LAB0064,2,Creatinine,1.42,0.6-1.2 mg/dL
+LAB0065,9,Creatinine,1.69,0.6-1.2 mg/dL
+LAB0066,31,Sodium,150.0,135-145 mEq/L
+LAB0067,11,RBC Count,6.39,4.5-5.9 x10^12/L
+LAB0068,21,Hemoglobin,13.5,13.5-17.5 g/dL
+LAB0069,7,Cholesterol,156.0,<200 mg/dL
+LAB0070,32,Sodium,140.0,135-145 mEq/L
+LAB0071,39,Sodium,131.0,135-145 mEq/L
+LAB0072,21,Creatinine,1.28,0.6-1.2 mg/dL
+LAB0073,18,Creatinine,0.52,0.6-1.2 mg/dL
+LAB0074,5,Vitamin D,31.4,30-100 ng/mL
+LAB0075,21,RBC Count,6.47,4.5-5.9 x10^12/L
+LAB0076,19,Hemoglobin,15.8,13.5-17.5 g/dL
+LAB0077,46,WBC Count,8.7,4.5-11.0 x10^9/L
+LAB0078,37,Glucose Fasting,158.0,70-100 mg/dL
+LAB0079,2,RBC Count,5.4,4.5-5.9 x10^12/L
+LAB0080,14,Glucose Fasting,180.0,70-100 mg/dL
+LAB0081,13,Potassium,5.6,3.5-5.1 mEq/L
+LAB0082,44,Vitamin D,70.9,30-100 ng/mL
+LAB0083,40,Glucose Fasting,106.0,70-100 mg/dL
+LAB0084,19,WBC Count,7.4,4.5-11.0 x10^9/L
+LAB0085,42,TSH,0.31,0.4-4.0 mIU/L
+LAB0086,29,Creatinine,1.37,0.6-1.2 mg/dL
+LAB0087,31,RBC Count,4.57,4.5-5.9 x10^12/L
+LAB0088,21,RBC Count,4.25,4.5-5.9 x10^12/L
+LAB0089,33,RBC Count,5.06,4.5-5.9 x10^12/L
+LAB0090,40,Sodium,132.0,135-145 mEq/L
+LAB0091,24,Glucose Fasting,161.0,70-100 mg/dL
+LAB0092,9,Hemoglobin,10.5,13.5-17.5 g/dL
+LAB0093,18,Potassium,4.9,3.5-5.1 mEq/L
+LAB0094,17,WBC Count,3.1,4.5-11.0 x10^9/L
+LAB0095,12,Cholesterol,200.0,<200 mg/dL
+LAB0096,5,Glucose Fasting,148.0,70-100 mg/dL
+LAB0097,37,Creatinine,1.41,0.6-1.2 mg/dL
+LAB0098,16,Vitamin D,46.8,30-100 ng/mL
+LAB0099,38,TSH,4.55,0.4-4.0 mIU/L
+LAB0100,25,TSH,2.1,0.4-4.0 mIU/L
