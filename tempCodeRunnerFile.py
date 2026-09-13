@@ -1,0 +1,1 @@
+python -m streamlit run Risk_Model.py 

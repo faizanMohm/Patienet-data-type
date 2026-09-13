@@ -68,4 +68,4 @@ if st.button("Predict Risk"):
         f"Risk Probability: {probability:.2%}"
     )
 
-    
+   #python -m streamlit run Risk_Model.py 
